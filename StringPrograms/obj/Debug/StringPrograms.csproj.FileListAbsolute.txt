@@ -1,0 +1,7 @@
+F:\DotNetProgramss\StringPrograms\StringPrograms\bin\Debug\StringPrograms.exe.config
+F:\DotNetProgramss\StringPrograms\StringPrograms\bin\Debug\StringPrograms.exe
+F:\DotNetProgramss\StringPrograms\StringPrograms\bin\Debug\StringPrograms.pdb
+F:\DotNetProgramss\StringPrograms\StringPrograms\obj\Debug\StringPrograms.csproj.AssemblyReference.cache
+F:\DotNetProgramss\StringPrograms\StringPrograms\obj\Debug\StringPrograms.csproj.CoreCompileInputs.cache
+F:\DotNetProgramss\StringPrograms\StringPrograms\obj\Debug\StringPrograms.exe
+F:\DotNetProgramss\StringPrograms\StringPrograms\obj\Debug\StringPrograms.pdb
